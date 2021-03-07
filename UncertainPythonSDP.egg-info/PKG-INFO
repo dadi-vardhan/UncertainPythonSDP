@@ -1,4 +1,4 @@
-Metadata-Version: 1.1
+Metadata-Version: 2.1
 Name: UncertainPythonSDP
 Version: 1.0.0
 Summary: uncertainity library
@@ -6,6 +6,7 @@ Home-page: https://github.com/dadi-vardhan/UncertainPythonSDP.git
 Author: Vishnu Vardhan dadi
 Author-email: dadivishnuvardhan@gmail.com
 License: MIT
+Project-URL: Bug Tracker, https://github.com/dadi-vardhan/UncertainPythonSDP
 Description: UNKNOWN
 Keywords: UncertainPythonSDP
 Platform: UNKNOWN
@@ -21,3 +22,5 @@ Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.3
 Classifier: Programming Language :: Python :: 3.4
 Classifier: Programming Language :: Python :: 3.5
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
