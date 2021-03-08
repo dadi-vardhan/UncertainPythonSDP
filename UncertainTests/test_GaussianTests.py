@@ -8,7 +8,7 @@ sys.path.append(parentdir)
 from Uncertain.Gaussian import Gaussian
 from Uncertain.Sampler import Sampler
 from Uncertain.Extensions import Extensions 
-from Uncertain.Uncertain import Operator 
+from Uncertain.Uncertaint import Operator 
 
 def test_gaussian_sample():
     x = Gaussian(5.0, 2.0)
